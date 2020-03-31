@@ -1,0 +1,17 @@
+{
+  "title": "Experience",
+  "experience": [
+    {
+      "period": "Sep 2019 - Jan 2019",
+      "company": "Tokyo University of Science",
+      "url": "https://tus.ac.jp",
+      "description": "Teaching Assistant of Exercises in Applied Information Engineering. Lecture assistant for Python, Object-Oriented Programming, Image Processing, etc."
+    },
+    {
+      "period": "Mar 2020 - Present",
+      "company": "AVILEN Co., Ltd.",
+      "url": "https://avilen.co.jp",
+      "description": "Internship of Machine Learning Engineer. Development some projects using machine learning and deep learning."
+    }
+  ]
+}

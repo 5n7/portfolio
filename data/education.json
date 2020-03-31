@@ -1,0 +1,17 @@
+{
+  "title": "Education",
+  "education": [
+    {
+      "period": "Apr 2016 - Mar 2020",
+      "school": "Tokyo University of Science",
+      "url": "https://rs.tus.ac.jp/vml",
+      "description": "Bachelor of Engineering, Department of Information and Computer Technology."
+    },
+    {
+      "period": "Apr 2018 - Mar 2020",
+      "school": "Tokyo University of Science",
+      "url": "https://rs.tus.ac.jp/vml",
+      "description": "Master of Engineering, Department of Information and Computer Technology."
+    }
+  ]
+}

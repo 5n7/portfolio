@@ -1,0 +1,65 @@
+{
+  "title": "Works",
+  "works": [
+    {
+      "title": "arxiv-vanity-opener",
+      "url": "https://github.com/skmatz/arxiv-vanity-opener",
+      "tags": ["chrome-extension", "javascript"],
+      "description": "Chrome extension to add a menu to open arXiv papers with arXiv Vanity."
+    },
+    {
+      "title": "ccat",
+      "url": "https://github.com/skmatz/ccat",
+      "tags": ["cli", "go"],
+      "description": "Colored cat Command."
+    },
+    {
+      "title": "nr",
+      "url": "https://github.com/skmatz/nr",
+      "tags": ["cli", "python"],
+      "description": "CLI to rename files sequentially."
+    },
+    {
+      "title": "spr",
+      "url": "https://github.com/skmatz/spr",
+      "tags": ["slack", "python"],
+      "description": "Monitor Python for-loop and send iterations to Slack."
+    },
+    {
+      "title": "temple",
+      "url": "https://github.com/skmatz/temple",
+      "tags": ["cli", "go"],
+      "description": "CLI to quickly copy files to current directory."
+    },
+    {
+      "title": "uilitex",
+      "url": "https://github.com/skmatz/uilitex",
+      "tags": ["hugo-theme"],
+      "description": "Customized UILite Theme for Hugo."
+    },
+    {
+      "title": "zcd",
+      "url": "https://github.com/skmatz/zcd",
+      "tags": ["shellscript", "zsh-plugin"],
+      "description": "Zsh plugin to show directory information automatically when changed directory."
+    },
+    {
+      "title": "ztr",
+      "url": "https://github.com/skmatz/ztr",
+      "tags": ["shellscript", "zsh-plugin"],
+      "description": "Zsh plugin to set tmux window title automatically."
+    },
+    {
+      "title": "albumentations",
+      "url": "https://github.com/albumentations-team/albumentations",
+      "tags": ["augmentation", "deep-learning", "oss", "python"],
+      "description": "[contributing] Fast image augmentation library and easy to use wrapper around other libraries."
+    },
+    {
+      "title": "kornia",
+      "url": "https://github.com/kornia/kornia",
+      "tags": ["augmentation", "deep-learning", "oss", "python"],
+      "description": "[contributing] Open source differentiable computer vision library for PyTorch."
+    }
+  ]
+}

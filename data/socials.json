@@ -1,0 +1,26 @@
+[
+  {
+    "icon": "fab fa-facebook",
+    "url": "https://facebook.com/shuntak217"
+  },
+  {
+    "icon": "fab fa-github",
+    "url": "https://github.com/skmatz"
+  },
+  {
+    "icon": "fab fa-gitlab",
+    "url": "https://gitlab.com/skmatz"
+  },
+  {
+    "icon": "fab fa-linkedin",
+    "url": "https://linkedin.com/in/shuntak217"
+  },
+  {
+    "icon": "fab fa-twitter",
+    "url": "https://twitter.com/shuntak217"
+  },
+  {
+    "icon": "fas fa-envelope",
+    "url": "mailto:shutak217@gmail.com"
+  }
+]
