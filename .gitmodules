@@ -1,0 +1,3 @@
+[submodule "themes/uilitex"]
+	path = themes/uilitex
+	url = https://github.com/skmatz/hugo-uilitex
