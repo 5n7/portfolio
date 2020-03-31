@@ -1,3 +1,4 @@
-baseURL = ""
+baseURL = "https://skmatz.netlify.com/"
 languageCode = "en-us"
 title = "Shunta Komatsu"
+theme = "uilitex"
