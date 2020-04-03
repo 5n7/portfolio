@@ -14,10 +14,22 @@
       "description": "Colored cat Command."
     },
     {
+      "title": "fghq",
+      "url": "https://github.com/skmatz/fghq",
+      "tags": ["shellscript", "zsh-plugin"],
+      "description": "Zsh plugin to move to ghq Directory with fzf."
+    },
+    {
       "title": "nr",
       "url": "https://github.com/skmatz/nr",
       "tags": ["cli", "python"],
       "description": "CLI to rename files sequentially."
+    },
+    {
+      "title": "spotifier",
+      "url": "https://github.com/skmatz/spotifier",
+      "tags": ["spotify", "python"],
+      "description": "A Spotify web API library for modern Python."
     },
     {
       "title": "spr",
