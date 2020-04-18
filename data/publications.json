@@ -1,0 +1,11 @@
+{
+  "title": "Publications",
+  "publications": [
+    {
+      "author": "Shunta Komatsu, Ryosuke Furuta, and Yukinobu Taniguchi",
+      "title": "Passenger Flow Estimation with Bipartite Matching on Bus Surveillance Cameras",
+      "booktitle": "Institute of Electronics, Information and Communication Engineers (General Conference)",
+      "year": 2020
+    }
+  ]
+}
