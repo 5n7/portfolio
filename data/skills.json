@@ -6,8 +6,8 @@
       "skills": [
         { "name": "C/C++", "point": "20", "icon": "fab fa-cuttlefish" },
         { "name": "Go", "point": "40", "icon": "fab fa-google" },
-        { "name": "HTML", "point": "20", "icon": "fab fa-html5" },
-        { "name": "CSS", "point": "20", "icon": "fab fa-css3" },
+        { "name": "HTML5", "point": "20", "icon": "fab fa-html5" },
+        { "name": "CSS3", "point": "20", "icon": "fab fa-css3" },
         { "name": "JavaScript", "point": "40", "icon": "fab fa-js" },
         { "name": "Python", "point": "80", "icon": "fab fa-python" }
       ]

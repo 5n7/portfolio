@@ -14,10 +14,28 @@
       "description": "Colored cat Command."
     },
     {
+      "title": "copitter",
+      "url": "https://github.com/skmatz/copitter",
+      "tags": ["javascript", "react"],
+      "description": "Copy PDF to clipboard efficiently."
+    },
+    {
       "title": "fghq",
       "url": "https://github.com/skmatz/fghq",
       "tags": ["shellscript", "zsh-plugin"],
       "description": "Zsh plugin to move to ghq Directory with fzf."
+    },
+    {
+      "title": "hoshi",
+      "url": "https://github.com/skmatz/hoshi",
+      "tags": ["cli", "go"],
+      "description": "A CLI to open GitHub favorite repositories in browser."
+    },
+    {
+      "title": "imcat",
+      "url": "https://github.com/skmatz/imcat",
+      "tags": ["cli", "go"],
+      "description": "cat Command for images."
     },
     {
       "title": "nr",
@@ -26,16 +44,28 @@
       "description": "CLI to rename files sequentially."
     },
     {
+      "title": "spock",
+      "url": "https://github.com/skmatz/spock",
+      "tags": ["python", "spotify"],
+      "description": "Change Slack status to the track currently playing on Spotify."
+    },
+    {
       "title": "spotifier",
       "url": "https://github.com/skmatz/spotifier",
-      "tags": ["spotify", "python"],
+      "tags": ["python", "spotify"],
       "description": "A Spotify web API library for modern Python."
     },
     {
       "title": "spr",
       "url": "https://github.com/skmatz/spr",
-      "tags": ["slack", "python"],
+      "tags": ["python", "slack"],
       "description": "Monitor Python for-loop and send iterations to Slack."
+    },
+    {
+      "title": "statsfy",
+      "url": "https://github.com/skmatz/statsfy",
+      "tags": ["python", "spotify"],
+      "description": "Statsfy analyzed Spotify statistics."
     },
     {
       "title": "temple",

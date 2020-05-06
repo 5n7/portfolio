@@ -12,6 +12,12 @@
       "company": "AVILEN Co., Ltd.",
       "url": "https://avilen.co.jp",
       "description": "Internship of Machine Learning Engineer. Development some projects using machine learning and deep learning."
+    },
+    {
+      "period": "Apr 2020 - Aug 2020",
+      "company": "Tokyo University of Science",
+      "url": "https://tus.ac.jp",
+      "description": "Teaching Assistant of Information Engineering Laboratory 3. Lecture assistant for Python, Image Processing, etc."
     }
   ]
 }
