@@ -8,6 +8,12 @@
       "description": "Chrome extension to add a menu to open arXiv papers with arXiv Vanity."
     },
     {
+      "title": "cb",
+      "url": "https://github.com/skmatz/cb",
+      "tags": ["cli", "go"],
+      "description": "Chrome bookmarks from terminal."
+    },
+    {
       "title": "ccat",
       "url": "https://github.com/skmatz/ccat",
       "tags": ["cli", "go"],
@@ -47,7 +53,7 @@
       "title": "spock",
       "url": "https://github.com/skmatz/spock",
       "tags": ["python", "spotify"],
-      "description": "Change Slack status to the track currently playing on Spotify."
+      "description": "Sync the music playing on Spotify with your Slack status."
     },
     {
       "title": "spotifier",
