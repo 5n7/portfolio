@@ -16,6 +16,7 @@
       "name": "frameworks",
       "skills": [
         { "name": "Django", "point": "20", "icon": "fab fa-python" },
+        { "name": "FastAPI", "point": "40", "icon": "fab fa-python" },
         { "name": "PyTorch", "point": "80", "icon": "fab fa-python" },
         { "name": "React", "point": "40", "icon": "fab fa-react" },
         { "name": "TensorFlow/Keras", "point": "40", "icon": "fab fa-python" }
@@ -27,7 +28,8 @@
         { "name": "AWS", "point": "20", "icon": "fab fa-aws" },
         { "name": "Docker", "point": "20", "icon": "fab fa-docker" },
         { "name": "Git", "point": "60", "icon": "fab fa-git" },
-        { "name": "Linux", "point": "60", "icon": "fab fa-linux" }
+        { "name": "Linux", "point": "60", "icon": "fab fa-linux" },
+        { "name": "SQL", "point": "20", "icon": "fab fa-database" }
       ]
     }
   ]
