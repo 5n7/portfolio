@@ -29,7 +29,7 @@
         { "name": "Docker", "point": "20", "icon": "fab fa-docker" },
         { "name": "Git", "point": "60", "icon": "fab fa-git" },
         { "name": "Linux", "point": "60", "icon": "fab fa-linux" },
-        { "name": "SQL", "point": "20", "icon": "fab fa-database" }
+        { "name": "SQL", "point": "20", "icon": "fas fa-database" }
       ]
     }
   ]
