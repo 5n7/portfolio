@@ -21,7 +21,7 @@
     },
     {
       "title": "copitter",
-      "url": "https://github.com/skmatz/copitter",
+      "url": "https://copitter.netlify.app",
       "tags": ["javascript", "react"],
       "description": "Copy PDF to clipboard efficiently."
     },
@@ -69,7 +69,7 @@
     },
     {
       "title": "statsfy",
-      "url": "https://github.com/skmatz/statsfy",
+      "url": "https://statsfy.herokuapp.com",
       "tags": ["python", "spotify"],
       "description": "Statsfy analyzed Spotify statistics."
     },

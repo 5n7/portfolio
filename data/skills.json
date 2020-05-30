@@ -17,7 +17,7 @@
       "skills": [
         { "name": "Django", "point": "20", "icon": "fab fa-python" },
         { "name": "FastAPI", "point": "40", "icon": "fab fa-python" },
-        { "name": "PyTorch", "point": "80", "icon": "fab fa-python" },
+        { "name": "PyTorch", "point": "60", "icon": "fab fa-python" },
         { "name": "React", "point": "40", "icon": "fab fa-react" },
         { "name": "TensorFlow/Keras", "point": "40", "icon": "fab fa-python" }
       ]
