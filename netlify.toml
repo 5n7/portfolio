@@ -1,3 +1,21 @@
 [build]
 publish = "public"
 command = "hugo --gc --minify --theme=uilitex"
+
+[[redirects]]
+  from = "https://skmatz.com/*"
+  to = "https://www.notion.so/skmatz/Portfolio-9adfde6fe5aa4075a827d788c2f435ab"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://skmatz.com/*"
+  to = "https://www.notion.so/skmatz/Portfolio-9adfde6fe5aa4075a827d788c2f435ab"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://www.skmatz.com/*"
+  to = "https://www.notion.so/skmatz/Portfolio-9adfde6fe5aa4075a827d788c2f435ab"
+  status = 301
+  force = true
